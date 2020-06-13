@@ -26,7 +26,7 @@ int main()
 	string idk;
 	int test;
 
-	int& first(userOne), second(userTwo); //Déclaration d'une référence nommée maVariable qui est accrochée à la variable ageUtilisateur
+	int& first(userOne), second(userTwo); //Déclaration d'une référence nommée first et second qui est accrochée à la variable userOne et userTwo
 	cout << "vos ages soustrait sont : (valeur reference) " << first - second << endl;
 
 	return 0;
