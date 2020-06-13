@@ -1,2 +1,2 @@
-# first.cpp
+# learning cpp
 cpp
