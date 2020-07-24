@@ -40,5 +40,4 @@ void f2(string& texte);  -> Implique que la fonction peut modifier 'texte'
 void f1(string const& texte);  -> Pas de copie et pas de modification possible
 {
 } 
-
 */
