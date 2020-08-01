@@ -53,7 +53,7 @@ int main() {
         cin >> voitures;
     } while (voitures < 4);*/
     // Soit while, soit do ... while
-    //  Le principe est le même, le programme a le même comportement. Le gros intérêt dedo ... whileest qu'on 
+    //  Le principe est le même, le programme a le même comportement. Le gros intérêt de do ... while est qu'on 
     //  s'assure que la boucle sera lue au moins une fois.
 
     cout << "Vous avez " << voitures << " voitures" << endl;
